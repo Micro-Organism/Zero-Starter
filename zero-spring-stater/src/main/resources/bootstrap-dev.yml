@@ -1,0 +1,12 @@
+spring:
+    application:
+        name: zero-spring-stater
+zero:
+    name: zero-spring-stater
+    age: 18
+    sex: "M"
+    version: 1.0.0
+    author: zero
+    email: XXXXXXXXXXXXX
+    website: XXXXXXXXXXXXXXXX
+    description: zero-spring-stater is a spring boot starter project.
